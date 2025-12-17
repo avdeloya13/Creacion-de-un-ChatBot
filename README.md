@@ -1,7 +1,5 @@
 # Creación de un Chatbot
 
-- Ana Valeria Deloya Andrade
-
 - Es una aplicación para dispositivos móviles hecha en MIT App Inventor mediante la cual es posible hacerle preguntas a Gemini, la Inteligencia Artificial de Google.
 
 <p align="center">
